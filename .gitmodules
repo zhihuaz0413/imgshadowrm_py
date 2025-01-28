@@ -1,0 +1,3 @@
+[submodule "external/ImgShadowRemoval-repo"]
+	path = external/ImgShadowRemoval-repo
+	url = https://github.com/zhihuaz0413/ImgShadowRemoval.git
